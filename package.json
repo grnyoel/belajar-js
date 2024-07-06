@@ -1,0 +1,14 @@
+{
+  "name": "jslearn",
+  "version": "1.0.0",
+  "description": "belajar npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "p"
+  },
+  "author": "Gerent",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
